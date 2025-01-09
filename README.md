@@ -20,6 +20,22 @@ https://www.ultra-noob.com/blog/2023/20/
 
 https://wikiwiki.jp/sd_toshiaki/ControlNet
 
+## 無料で美少女になる方法
+
+今回は踊ってみる
+
+1. 踊る
+2. VLCを使って動画からフレーム画像を抽出する
+https://www.media.io/jp/video-editors-tips/how-to-extract-frames-from-video.html
+3. stable diffusionを使ってフレーム画像を美少女化する
+4. ClipChampを使ってフレーム画像を動画にする
+
+参考
+
+https://www.videoconverterfactory.com/jp/tips/image-sequence-to-video.html
+
+https://note.com/chinmivgirl/n/ne03548e7b79f
+
 # Stable Diffusion web UI
 
 A web interface for Stable Diffusion, implemented using Gradio library.
